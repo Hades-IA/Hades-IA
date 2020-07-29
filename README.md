@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Olá! 👋 
+Meu nome é Arilson. Sou Dev Front-end.
+ 🔭 Eu amo resolver problemas e programação é uma das melhores ferramentas que ja encontrei, por isso você vai encontrar um pouco de tudo aqui, mas vou colocar nos destaques somente coisas ligadas ao Front-end. ;)
 <!--
 **Hades-IA/Hades-IA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
